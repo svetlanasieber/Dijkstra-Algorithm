@@ -1,6 +1,6 @@
 # Dijkstra City
 
-
+# This code demonstrates how to use Dijkstra's algorithm to find the shortest path between cities in a road network represented as a graph
 
 <img width="188" alt="map_city_point_to_point" src="https://github.com/svetlanasieber/Dijkstra-Algorithm/assets/135451084/182e0c11-bbac-4e6a-8660-8925ae58dfee">
 
