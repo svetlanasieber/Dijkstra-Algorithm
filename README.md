@@ -1,10 +1,9 @@
-# Dijkstra-Algorithm
+# Dijkstra City
 
-    A---(2)---B---(5)---C
-    |        / \        |
-  (3)      (6) (4)     (1)
-    |      /     \      |
-    D----(7)----E----(8)-F
+
+
+<img width="188" alt="map_city_point_to_point" src="https://github.com/svetlanasieber/Dijkstra-Algorithm/assets/135451084/182e0c11-bbac-4e6a-8660-8925ae58dfee">
+
 
 
 You have a graph representing a road network between cities, and you want to find the shortest path from a starting city to a destination city.
